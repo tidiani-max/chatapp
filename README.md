@@ -6,7 +6,7 @@ A simple real-time chat application built for learning and demo purposes.
 - PHP
 - JavaScript
 - MySQL (optional)
-- WebSockets (optional)
+- pusher
 
  Features
 - Realtime message updates
