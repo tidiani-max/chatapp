@@ -5,7 +5,7 @@ A simple real-time chat application built for learning and demo purposes.
  Built With
 - PHP
 - JavaScript
-- MySQL (optional)
+- sqlt3
 - pusher
 
  Features
@@ -13,7 +13,7 @@ A simple real-time chat application built for learning and demo purposes.
 - User authentication (basic)
 - Chatroom interface
 
- 📁 Folder Structure
+  Folder Structure
  realtime-chat-app/
 ├── index.php
 ├── js/
